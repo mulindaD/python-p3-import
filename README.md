@@ -3,6 +3,8 @@
 ## Learning Goals
 
 - Importing modules using absolute and relative imports.
+- Completed
+
 
 ***
 
